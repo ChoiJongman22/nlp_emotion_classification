@@ -23,3 +23,7 @@
 
 
 ### 2. 영어 감정 분석 시도 코드
+
+- <b>BERT&ELECTRA 모델 이용</b>  
+<t>`Friends_BERT&ELECTRA_Trial.ipynb`  
+<t>[참고 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)  
