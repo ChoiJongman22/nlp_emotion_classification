@@ -41,6 +41,8 @@ ELECTRA 모델 사용
 <t>[http://doraemon.iis.sinica.edu.tw/emotionlines/index.html](http://doraemon.iis.sinica.edu.tw/emotionlines/index.html)
 
 
-- <b>참고문헌 및 코드</b>  
+- <b>참고문헌 및 코드</b>
+<t>[https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=xgrsNuArd4pj](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=xgrsNuArd4pj)
+  
 
 
