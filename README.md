@@ -45,6 +45,7 @@ ELECTRA 모델 사용
 <t>[모델 학습 관련 소스코드 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
 
 
+<br>
 
 ### 3. 다른 모델 및 학습방법 시도  
 
