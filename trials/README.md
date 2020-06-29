@@ -10,14 +10,14 @@
 
 
 
-- <b>KoBERT 모델 이용</b>
+- <b>KoBERT 모델 이용</b>  
 <t>`NSMC_KoBERT.ipynb`  
 <t>[참고 : https://github.com/SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)
 
 
 
-- <b>LSTM 모델 이용</b>
-<t>`NSMC_LSTM.ipynb`
+- <b>LSTM 모델 이용</b>  
+<t>`NSMC_LSTM.ipynb`  
 <t>[참고 : https://wikidocs.net/44249](https://wikidocs.net/44249)  
 
 
