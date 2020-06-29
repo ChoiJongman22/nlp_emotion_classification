@@ -21,8 +21,8 @@ KOELECTRA 모델 사용
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
 
 
-- <b>참고문헌 및 코드</b>  
-
+- <b>참고문헌 및 코드</b>    
+<t>[KoELECTRA 참고 소스 코드: https://blog.naver.com/horajjan/221739630055](https://blog.naver.com/horajjan/221739630055)
 
 <br>
 
@@ -42,7 +42,17 @@ ELECTRA 모델 사용
 
 
 - <b>참고문헌 및 코드</b>  
-<t>[https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
-  
+<t>[모델 학습 관련 소스코드 : https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
+
+
+
+### 3. 다른 모델 및 학습방법 시도  
+
+[trials readme로 이동](https://github.com/jiwonny/nlp_emotion_classification/tree/master/trials)  
+
+- <b>참고 문헌 및 코드</b>  
+<t>[LSTM 소스 코드 :  https://wikidocs.net/44249](https://wikidocs.net/44249)  
+<t>[BERT 소스 코드 :  https://zzaebok.github.io/deep_learning/nlp/Bert-for-classification/](https://zzaebok.github.io/deep_learning/nlp/Bert-for-classification/)  
+<t>[KoBERT 소스 코드 : https://github.com/SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)  
 
 
